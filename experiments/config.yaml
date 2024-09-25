@@ -1,0 +1,5 @@
+federated_rounds: 50
+num_clients: 5
+learning_rate: 0.01
+batch_size: 32
+model_architecture: "LLaMA-3.1-7B"
